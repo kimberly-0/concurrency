@@ -1,0 +1,11 @@
+## Mac OS
+.DS_Store
+
+## Output folder
+target/
+
+## Javadoc folder
+javadoc/
+
+## Test folder
+test/
