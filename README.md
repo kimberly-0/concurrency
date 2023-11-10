@@ -8,15 +8,13 @@ This program uses concurrency to repeatedly print the letters  'W', 'X', 'y', an
 
 Each letter is printed by a separate thread and semaphores are used to communicate between the threads.
 
-The program was initially created as part of the *Advanced Programming* module of the MSc Computer Science course at Newcastle University in May 2021.
-
 ## Getting started
 
 1. Install [Java](https://www.oracle.com/java/technologies/downloads/#java17)
 
 2. Download the code in a ZIP file or clone the repository
 
-``` $ git clone https://github.com/kidijkmans/concurrency.git ```
+``` $ git clone https://github.com/kimberly-0/concurrency.git ```
 
 3. Open `PrintLetters.java` (located in *src/main/java/kd*) in an IDE
 
