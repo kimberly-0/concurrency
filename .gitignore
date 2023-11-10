@@ -9,3 +9,7 @@ javadoc/
 
 ## Test folder
 test/
+
+## IDE
+.vscode/
+.idea/
